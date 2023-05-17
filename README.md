@@ -55,6 +55,11 @@
                     <li>
                         虚拟商品售出删档,不支持退款或换产品,看不懂的不会玩的不要买,介意勿拍,没时间跟你扯皮!!!
                     </li>
+                    国内电商平台禁售，请加QQ：596589294。
+                    下单方法：QQ付款99RMB，并留言“已付款”。
+                    发货方式：客服将通过QQ回复，发送ChatGPT独立账号和密码。
+                    批量采购可谈价格。非诚勿扰！
+                    </li>
                 </ul>
                 <button class="btn btn-info d-inline-flex flex-row align-items-center"
                         onclick="window.open('https://j4e9o23wo3.feishu.cn/docx/VPmOdWPJHouV4wxqnl3clWp9npb', '_blank');">
